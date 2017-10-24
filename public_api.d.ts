@@ -5,7 +5,6 @@
  * MIT license.
  * https://github.com/robisim74/angular-library-starter
  */
-
 /**
  * Entry point for all public APIs of the package.
  */
